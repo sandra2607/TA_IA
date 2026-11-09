@@ -1,0 +1,18 @@
+{
+  "Regresión logística": {
+    "C": 0.1
+  },
+  "Árbol de decisión": {
+    "max_depth": 10,
+    "min_samples_leaf": 100
+  },
+  "Random Forest": {
+    "max_depth": 10,
+    "n_estimators": 200
+  },
+  "Gradient Boosting": {
+    "learning_rate": 0.2,
+    "max_depth": 6,
+    "max_iter": 100
+  }
+}
